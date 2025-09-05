@@ -3,7 +3,7 @@ import {getFirestore} from "@firebase/firestore";
 
 
 const firebaseConfig={
-apiKey:"AIzaSyAEJ-k61bwoy_8JkYCSoq96g9Eh8p8QnKc",
+apiKey:"...",
 authDomain:"capgemini-asturias-pablo.appspot.com",
 projectId:"capgemini-asturias-pablo",
 storageBucket:"capgemini-asturias-pablo.appspot.com",
