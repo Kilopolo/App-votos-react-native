@@ -77,3 +77,11 @@ Si deseas contribuir a este proyecto, sigue estos pasos:
 
 4. Crea un pull request en el repositorio original.
 
+---
+
+## ⚠️ Disclaimer
+
+Este proyecto ha sido **borrado de Firebase** y está **discontinuado**.  
+No se garantiza su funcionamiento actual ni se dará soporte o mantenimiento en el futuro.  
+
+El código se mantiene únicamente con fines de **aprendizaje y referencia**.
