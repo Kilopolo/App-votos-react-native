@@ -1,6 +1,9 @@
 # App de Voto Electrónico
 
 Esta es una aplicación de Voto Electrónico que permite a los ciudadanos registrarse, votar electrónicamente en elecciones y ver informes sobre los resultados de las elecciones. También proporciona información sobre los partidos políticos y candidatos registrados.
+# App de Voto Electrónico
+
+Esta es una aplicación de Voto Electrónico que permite a los ciudadanos registrarse, votar electrónicamente en elecciones y ver informes sobre los resultados de las elecciones. También proporciona información sobre los partidos políticos y candidatos registrados.
 
 ## Funcionalidades
 
@@ -14,23 +17,45 @@ La aplicación consta de las siguientes funcionalidades principales:
 
 4. **Visualización del Registro de Partidos y Candidatos**: Los usuarios pueden explorar información sobre los partidos políticos y candidatos registrados para tomar decisiones informadas antes de votar.
 
-## Instalación
+## 🚀 Instalación
 
 1. Clona este repositorio:
 
-   ```bash
-   git clone https://tu-repositorio.git
-
+```bash
+git clone https://github.com/Kilopolo/App-votos-react-native.git
+```
 
 2. Instala las dependencias:
-   ```bash
-   npm install
 
-3. Configura Firebase: Configura tu proyecto en Firebase y establece las credenciales en la aplicación para habilitar la autenticación y el almacenamiento de datos.
+```bash
+npm install
+```
 
-4. Inicia la aplicación:
-   ```bash
-   npm start
+3. Configura Firebase:  
+Crea un proyecto en Firebase y establece las credenciales en la aplicación para habilitar la autenticación y el almacenamiento de datos.
+
+4. Inicia la aplicación en modo desarrollo:
+
+```bash
+npx expo start
+```
+
+---
+
+## 📱 Probar la app en tu móvil
+
+1. Instala la app **Expo Go**:
+   - Android (Google Play): https://play.google.com/store/apps/details?id=host.exp.exponent  
+   - iOS (App Store): https://apps.apple.com/app/expo-go/id982107779
+
+2. Escanea el **código QR** que aparece en la terminal o en Metro Bundler cuando ejecutas `npx expo start`.
+
+3. La app se abrirá automáticamente en tu móvil dentro de **Expo Go**.
+
+4. (Opcional) También puedes abrirla en un emulador:
+   - Android: presiona `a` en la terminal de Metro Bundler.
+   - iOS (macOS): presiona `i` en la terminal de Metro Bundler.
+
 
 ## Tecnologías Utilizadas
 React Native: Para el desarrollo de la interfaz de usuario de la aplicación móvil.
