@@ -24,22 +24,16 @@ La aplicación consta de las siguientes funcionalidades principales:
 git clone https://github.com/Kilopolo/App-votos-react-native.git
 ```
 
-2. Entra en la carpeta del proyecto:
-
-```bash
-cd .\App-Central-React-Native\
-```
-
-3. Instala las dependencias:
+2. Instala las dependencias:
 
 ```bash
 npm install
 ```
 
-4. Configura Firebase:  
+3. Configura Firebase:  
 Crea un proyecto en Firebase y establece las credenciales en la aplicación para habilitar la autenticación y el almacenamiento de datos.
 
-5. Inicia la aplicación en modo desarrollo:
+4. Inicia la aplicación en modo desarrollo:
 
 ```bash
 npx expo start
