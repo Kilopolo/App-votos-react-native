@@ -31,6 +31,7 @@ npm install
 3. Configura Firebase:  
 Crea un proyecto en Firebase y establece las credenciales en la aplicación para habilitar la autenticación y el almacenamiento de datos.
 
+
 4. Inicia la aplicación en modo desarrollo:
 
 ```bash
